@@ -1,0 +1,13 @@
+﻿.vs/
+**/.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.tmp
+*.log
+
+# Database backups
+*.bacpac
