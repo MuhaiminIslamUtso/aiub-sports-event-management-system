@@ -11,3 +11,24 @@
 
 # Database backups
 *.bacpac
+
+# Visual Studio generated files
+.vs/
+**/.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
+
+# Database backups
+*.bacpac
